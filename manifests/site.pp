@@ -1,5 +1,4 @@
 node default {
-  include tma
-  include apt
+  include ::tma
 
 }
